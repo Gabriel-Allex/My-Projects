@@ -1,0 +1,20 @@
+nav#Menu {
+  background-color: red;
+  padding: 10px 20px;
+}
+img#Logo {
+  width: 200px;
+}
+ul#OpcMenu {
+  display: inline-block;  
+}
+ul#OpcMenu li {
+  align-items: center;
+  display: inline-block;
+  color: white;
+  background-color: rgb(128, 0, 0);
+  border-radius: 10px;
+  padding: 5px 5px 5px 5px;
+  justify-content: center;
+  margin: 20px;
+}
